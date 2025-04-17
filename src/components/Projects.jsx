@@ -28,7 +28,7 @@ function Projects() {
       image: portfolio,
       description: "A personal portfolio website showcasing projects and skills.",
       technologies: ["React", "CSS", "Vite"],
-      link: "#",
+      link: "https://portfolio-ix8t0wvb8-harirmahmouds-projects.vercel.app/",
     
     },
     {
